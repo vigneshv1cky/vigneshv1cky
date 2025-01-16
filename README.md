@@ -18,6 +18,47 @@
 |----------|----------|----------|----------|----------|----------|------------|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" title="Keras" alt="Keras" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="mpl" alt="mpl" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="55" height="55"/> |
 
+### Best Libraries for R:
+
+| Library           | Functionality                                                                 |
+|-------------------|-------------------------------------------------------------------------------|
+| **Tidyverse**      | Comprehensive collection of tools for data manipulation, visualization, and analysis. |
+| **caret**          | Machine learning, training, and modeling.                                  |
+| **randomForest**   | Random Forest algorithm for classification and regression.                  |
+| **e1071**          | Support Vector Machines and other machine learning algorithms.              |
+| **MASS**           | Tools and datasets for statistical modeling.                               |
+| **arules**         | Association rule mining (e.g., Apriori algorithm).                         |
+| **arulesViz**      | Visualization tools for association rules.                                 |
+| **cluster**        | Cluster analysis, including methods like PAM.                              |
+| **NbClust**        | Determine the optimal number of clusters in clustering algorithms.          |
+| **dbscan**         | Density-based clustering.                                                  |
+| **lattice**        | Data visualization and graphics.                                           |
+| **reshape2**       | Reshape and reorganize data frames.                                        |
+| **rpart**          | CART (Classification and Regression Trees) algorithm.                     |
+| **party**          | Decision tree modeling and visualization.                                 |
+| **partykit**       | Tree-based models and visualizations.                                      |
+| **rattle**         | Enhanced tree plots and data mining utilities.                            |
+| **wordcloud**      | Generate word clouds from text data.                                       |
+| **tm**             | Text mining tools.                                                        |
+| **tidytext**       | Tidy tools for text mining.                                               |
+| **knitr**          | Dynamic report generation.                                                |
+| **VIM**            | Visualization of missing values.                                          |
+| **mice**           | Multiple imputation of missing data.                                      |
+| **outliers**       | Detect and handle outliers in datasets.                                   |
+| **AppliedPredictiveModeling** | Predictive modeling tools.                                      |
+| **glmnet**         | Lasso and elastic-net regression.                                         |
+| **pls**            | Partial least squares and principal component regression.                 |
+| **earth**          | Multivariate adaptive regression splines (MARS).                          |
+| **ROCR**           | Performance visualization for classifiers (ROC curves).                  |
+
+### Highlights:
+- **Data Visualization**: `ggplot2`, `lattice`, `wordcloud`, `rattle`.
+- **Machine Learning**: `caret`, `randomForest`, `e1071`, `glmnet`, `pls`.
+- **Text Mining**: `tm`, `tidytext`, `wordcloud`.
+- **Clustering**: `cluster`, `NbClust`, `dbscan`.
+- **Data Cleaning and Reshaping**: `reshape2`, `tidyverse`, `VIM`, `mice`.
+
+
 ### My tools for Data Manipulation & Visualisation:
 
 | Conda | Jupyter | Spark | MySQL | Postgres | Tableau | Power BI |
