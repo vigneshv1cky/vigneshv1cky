@@ -85,36 +85,6 @@
 - **Clustering**: `cluster`, `NbClust`, `dbscan`.
 - **Data Cleaning and Reshaping**: `reshape2`, `tidyverse`, `VIM`, `mice`.
 
-### Best Libraries for R :
-
-| Library           | Icon                                                                                     | Functionality                                                                 |
-|-------------------|------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|
-| **Tidyverse**      | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="45"/>  | Comprehensive tools for data manipulation, visualization, and analysis.       |
-| **ggplot2**        | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="45"/>  | Advanced data visualization and graphics.                                     |
-| **caret**          | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="45"/>  | Machine learning, training, and modeling.                                     |
-| **randomForest**   | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="45"/>  | Random Forest algorithm for classification and regression.                    |
-| **e1071**          | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="45"/>  | Support Vector Machines and other machine learning algorithms.                |
-| **MASS**           | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="45"/>  | Tools and datasets for statistical modeling.                                 |
-| **arules**         | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="45"/>  | Association rule mining (e.g., Apriori algorithm).                           |
-| **arulesViz**      | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="45"/>  | Visualization tools for association rules.                                   |
-| **cluster**        | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="45"/>  | Cluster analysis, including methods like PAM.                                |
-| **NbClust**        | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="45"/>  | Determine the optimal number of clusters.                                    |
-| **dbscan**         | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="45"/>  | Density-based clustering.                                                    |
-| **lattice**        | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="45"/>  | Data visualization and graphics.                                             |
-| **reshape2**       | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="45"/>  | Reshape and reorganize data frames.                                          |
-| **rpart**          | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="45"/>  | CART (Classification and Regression Trees) algorithm.                        |
-| **party**          | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="45"/>  | Decision tree modeling and visualization.                                    |
-| **partykit**       | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="45"/>  | Tree-based models and visualizations.                                        |
-| **rattle**         | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="45"/>  | Enhanced tree plots and data mining utilities.                               |
-| **wordcloud**      | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="45"/>  | Generate word clouds from text data.                                         |
-| **tm**             | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="45"/>  | Text mining tools.                                                           |
-| **tidytext**       | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="45"/>  | Tidy tools for text mining.                                                  |
-| **knitr**          | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="45"/>  | Dynamic report generation.                                                   |
-| **VIM**            | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="45"/>  | Visualization of missing values.                                             |
-| **mice**           | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="45"/>  | Multiple imputation of missing data.                                         |
-| **ROCR**           | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="45"/>  | Performance visualization for classifiers (ROC curves).                      |
-
-
 
 ## Education
 ### Master’s in Data Science and Analytics
