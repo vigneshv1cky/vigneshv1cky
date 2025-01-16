@@ -9,7 +9,7 @@
 
 ### Languages:
 | Python3 | R | JS | DAX | HTML | SQL | 
-|----------|----------|----------|----------|----------|
+|----------|----------|----------|----------|----------|----------|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/>| <img src="https://www.r-project.org/logo/Rlogo.png" title="R" alt="R" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> | <img src= "assets/images.png" title="DAX" alt="DAX" width="55" height="55"/> | <img src="assets/HTML5_logo_and_wordmark.svg" title="HTML" alt="HTML" width="75" height="65"/> | <img src="assets/Sql_data_base_with_logo.png" title="SQL" alt="SQL" width="75" height="55"/> |
 
 ### Best frameworks and main libraries for Python3:
