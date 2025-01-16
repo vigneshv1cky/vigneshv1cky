@@ -78,10 +78,6 @@
 | **earth**          | Multivariate adaptive regression splines (MARS).                          |
 | **ROCR**           | Performance visualization for classifiers (ROC curves).                  |
 
-## Education
-### Master’s in Data Science and Analytics
-**University of Oklahoma, Norman**  
-
 ---
 
 Feel free to explore my repositories and projects. If you have any questions or would like to collaborate, please reach out to me via [LinkedIn](https://www.linkedin.com/in/vignesh-murugan-791347103/) or murugan.datum@gmail.com
