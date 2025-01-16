@@ -78,14 +78,6 @@
 | **earth**          | Multivariate adaptive regression splines (MARS).                          |
 | **ROCR**           | Performance visualization for classifiers (ROC curves).                  |
 
-### Highlights:
-- **Data Visualization**: `ggplot2`, `lattice`, `wordcloud`, `rattle`.
-- **Machine Learning**: `caret`, `randomForest`, `e1071`, `glmnet`, `pls`.
-- **Text Mining**: `tm`, `tidytext`, `wordcloud`.
-- **Clustering**: `cluster`, `NbClust`, `dbscan`.
-- **Data Cleaning and Reshaping**: `reshape2`, `tidyverse`, `VIM`, `mice`.
-
-
 ## Education
 ### Master’s in Data Science and Analytics
 **University of Oklahoma, Norman**  
