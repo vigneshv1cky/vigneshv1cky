@@ -18,6 +18,33 @@
 |----------|----------|----------|----------|----------|----------|------------|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" title="Keras" alt="Keras" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="mpl" alt="mpl" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="55" height="55"/> |
 
+
+### My tools for Data Manipulation & Visualisation:
+
+| Conda | Jupyter | Spark | MySQL | Postgres | Tableau | Power BI |
+|----------|-------|---------|-------|-------|----------|---------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" title="Spark" alt="Spark" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgres" alt="Postgres" width="55" height="55"/>|<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" title="Tableau" alt="Tableau" width="75" height="65"/>|<img src="assets/Power BI.png" title="Power BI" alt="Power BI" width="75" height="65"/>|
+
+
+### Web, Version Control and Containerization
+
+| Nodejs | Git | Docker | Django |
+|----------|----------|----------|----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="55" height="55"/>|
+
+### OS:
+
+| Linux | Ubuntu |
+|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> |
+
+### Cloud Services:
+
+| Azure |
+|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="55" height="55"/> |
+
+
 ### Best Libraries for R:
 
 | Library           | Functionality                                                                 |
@@ -58,31 +85,35 @@
 - **Clustering**: `cluster`, `NbClust`, `dbscan`.
 - **Data Cleaning and Reshaping**: `reshape2`, `tidyverse`, `VIM`, `mice`.
 
+### Best Libraries for R :
 
-### My tools for Data Manipulation & Visualisation:
+| Library           | Icon                                                                                     | Functionality                                                                 |
+|-------------------|------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|
+| **Tidyverse**      | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="45"/>  | Comprehensive tools for data manipulation, visualization, and analysis.       |
+| **ggplot2**        | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="45"/>  | Advanced data visualization and graphics.                                     |
+| **caret**          | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="45"/>  | Machine learning, training, and modeling.                                     |
+| **randomForest**   | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="45"/>  | Random Forest algorithm for classification and regression.                    |
+| **e1071**          | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="45"/>  | Support Vector Machines and other machine learning algorithms.                |
+| **MASS**           | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="45"/>  | Tools and datasets for statistical modeling.                                 |
+| **arules**         | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="45"/>  | Association rule mining (e.g., Apriori algorithm).                           |
+| **arulesViz**      | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="45"/>  | Visualization tools for association rules.                                   |
+| **cluster**        | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="45"/>  | Cluster analysis, including methods like PAM.                                |
+| **NbClust**        | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="45"/>  | Determine the optimal number of clusters.                                    |
+| **dbscan**         | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="45"/>  | Density-based clustering.                                                    |
+| **lattice**        | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="45"/>  | Data visualization and graphics.                                             |
+| **reshape2**       | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="45"/>  | Reshape and reorganize data frames.                                          |
+| **rpart**          | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="45"/>  | CART (Classification and Regression Trees) algorithm.                        |
+| **party**          | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="45"/>  | Decision tree modeling and visualization.                                    |
+| **partykit**       | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="45"/>  | Tree-based models and visualizations.                                        |
+| **rattle**         | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="45"/>  | Enhanced tree plots and data mining utilities.                               |
+| **wordcloud**      | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="45"/>  | Generate word clouds from text data.                                         |
+| **tm**             | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="45"/>  | Text mining tools.                                                           |
+| **tidytext**       | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="45"/>  | Tidy tools for text mining.                                                  |
+| **knitr**          | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="45"/>  | Dynamic report generation.                                                   |
+| **VIM**            | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="45"/>  | Visualization of missing values.                                             |
+| **mice**           | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="45"/>  | Multiple imputation of missing data.                                         |
+| **ROCR**           | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="45"/>  | Performance visualization for classifiers (ROC curves).                      |
 
-| Conda | Jupyter | Spark | MySQL | Postgres | Tableau | Power BI |
-|----------|-------|---------|-------|-------|----------|---------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" title="Spark" alt="Spark" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgres" alt="Postgres" width="55" height="55"/>|<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" title="Tableau" alt="Tableau" width="75" height="65"/>|<img src="assets/Power BI.png" title="Power BI" alt="Power BI" width="75" height="65"/>|
-
-
-### Web, Version Control and Containerization
-
-| Nodejs | Git | Docker | Django |
-|----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="55" height="55"/>|
-
-### OS:
-
-| Linux | Ubuntu |
-|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> |
-
-### Cloud Services:
-
-| Azure |
-|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="55" height="55"/> |
 
 
 ## Education
