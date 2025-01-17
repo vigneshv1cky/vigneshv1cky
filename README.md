@@ -42,7 +42,7 @@
 
 | Azure | Data Factory | Databricks | HDInsight | SQL Server |
 |----------|----------|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="55" height="55"/> |  <img src="https://code.benco.io/icon-collection/azure-icons/Data-Factory.svg" width="55"/> | <img src="https://camo.githubusercontent.com/cc4e5bfb8fa4dea9daa125eb1ce735013cad092ea2703e11edd02d788d628981/68747470733a2f2f77372e706e6777696e672e636f6d2f706e67732f3439362f36322f706e672d7472616e73706172656e742d64617461627269636b732d6c6f676f2d7468756d626e61696c2d746563682d636f6d70616e6965732d7468756d626e61696c2e706e67" width="55"/> | <img src="https://logodix.com/logo/2178898.png" width="55"/> | <img src="https://code.benco.io/icon-collection/azure-icons/SQL-Server.svg" width="55"/>|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="55" height="55"/> | <img src="https://code.benco.io/icon-collection/azure-icons/Data-Factory.svg" width="55"/> | <img src="https://camo.githubusercontent.com/cc4e5bfb8fa4dea9daa125eb1ce735013cad092ea2703e11edd02d788d628981/68747470733a2f2f77372e706e6777696e672e636f6d2f706e67732f3439362f36322f706e672d7472616e73706172656e742d64617461627269636b732d6c6f676f2d7468756d626e61696c2d746563682d636f6d70616e6965732d7468756d626e61696c2e706e67" width="55"/> | <img src="https://logodix.com/logo/2178898.png" width="55"/> | <img src="https://code.benco.io/icon-collection/azure-icons/SQL-Server.svg" width="55"/>|
 
 
 ### Best Libraries for R:
