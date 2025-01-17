@@ -42,7 +42,7 @@
 
 | Azure | Data Factory | Databricks | SQL Server |
 |----------|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="55" height="55"/> |<img src="https://code.benco.io/icon-collection/azure-icons/Data-Factory.svg" width="55"/>|<img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Databricks_Logo.png" width="55"/>|<img src="https://miro.medium.com/v2/resize:fit:1200/0*YgB1oVzrvGS5GgA7.png" width="55"/>|<img src="https://logodix.com/logo/2178898.png" width="55"/><img src="https://code.benco.io/icon-collection/azure-icons/SQL-Server.svg" width="55"/>|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="55" height="55"/> |<img src="https://code.benco.io/icon-collection/azure-icons/Data-Factory.svg" width="55"/>|<img src="https://miro.medium.com/v2/resize:fit:1200/0*YgB1oVzrvGS5GgA7.png" width="55"/>|<img src="https://logodix.com/logo/2178898.png" width="55"/><img src="https://code.benco.io/icon-collection/azure-icons/SQL-Server.svg" width="55"/>|
 
 
 ### Best Libraries for R:
