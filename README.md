@@ -40,9 +40,9 @@
 
 ### Cloud Services:
 
-| Azure |
-|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="55" height="55"/> |
+| Azure | Data Factory | Databricks | Unity Catalog | HDInsight |
+|----------|----------|----------|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="55" height="55"/> |<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Microsoft_Azure_Data_Factory_Logo.svg" width="55"/>|<img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Databricks_Logo.png" width="55"/>|<img src="https://databricks.com/wp-content/uploads/2022/03/unity-catalog.svg" width="55"/>|<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Microsoft_Azure_HDInsight_Logo.svg" width="55"/>
 
 
 ### Best Libraries for R:
